@@ -1,13 +1,13 @@
-{
-    "ip": "katyty.aternos.me",
-    "port": "56074",
-    "name": "kartik",
+{ 
+    "ip": "MR_MUTANT.aternos.me",
+    "port": "61149",
+    "name": "helper",
     "password": "",
     "auto-night-skip": "false",
     "prefix": "",
     "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
+    "register-cmd": "/login helper helper",
+    "login-cmd": "/login helper",
     "loginmsg": "done",
     "auto-reconnect": "true",
     "web": "true"
